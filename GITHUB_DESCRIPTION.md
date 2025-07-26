@@ -45,10 +45,30 @@ Topics: python, proxy-server, web-scraping, https-proxy, proxy-rotation, ssl-byp
 ```
 
 ### Repository Guidelines:
-- **License**: MIT (already configured)
+- **License**: MIT License (see LICENSE file)
 - **Contributing**: Open to contributions
 - **Code of Conduct**: Standard GitHub Community Guidelines
 - **Security**: Report security issues via GitHub Security tab
+
+## 📄 License Information
+
+This project is licensed under the MIT License. The MIT License is a permissive license that allows:
+
+✅ **Commercial use** - Use in commercial projects
+✅ **Modification** - Modify the source code
+✅ **Distribution** - Distribute copies of the software
+✅ **Private use** - Use for private projects
+✅ **Sublicense** - Include in larger works under different licenses
+
+**Requirements:**
+- Include the original copyright notice
+- Include the MIT license text
+
+**Limitations:**
+- No warranty or liability from the author
+- No trademark use rights
+
+For full license text, see the [LICENSE](LICENSE) file.
 
 ## Social Media Descriptions
 

@@ -117,3 +117,24 @@ All requests are logged to `working_https_proxy.log` with details:
 - **Error Resilience**: Continues working even when proxies fail
 - **Performance Monitoring**: Built-in status dashboard
 - **Testing Suite**: Automated testing for validation
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
+## 📞 Support
+
+If you encounter any issues or have questions:
+- Open an issue on GitHub
+- Check the [HTTPS_GUIDE.md](HTTPS_GUIDE.md) for detailed implementation information
+- Review the test files for usage examples
+
+## 🌟 Acknowledgments
+
+- Thanks to ProxyScrape API for providing free proxy services
+- Built with Python's standard library for maximum compatibility
+- Inspired by the need for reliable HTTPS proxy solutions in web scraping

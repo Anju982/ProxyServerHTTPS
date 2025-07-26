@@ -2,6 +2,10 @@
 """
 Test HTTPS Proxy Server Functionality
 This script tests both HTTP and HTTPS requests through the proxy server.
+
+MIT License
+Copyright (c) 2025 Anju982
+Licensed under the MIT License. See LICENSE file for details.
 """
 
 import urllib.request

@@ -4,6 +4,10 @@ Simple Proxy Server Status Dashboard (No External Dependencies)
 A lightweight web-based status page using only built-in Python libraries.
 Usage: python simple_status.py
 Access: http://localhost:8888
+
+MIT License
+Copyright (c) 2025 Anju982
+Licensed under the MIT License. See LICENSE file for details.
 """
 
 import time

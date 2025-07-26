@@ -2,6 +2,10 @@
 """
 Quick HTTPS Proxy Test
 Automated testing of HTTPS proxy functionality
+
+MIT License
+Copyright (c) 2025 Anju982
+Licensed under the MIT License. See LICENSE file for details.
 """
 
 import urllib.request
